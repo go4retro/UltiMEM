@@ -182,3 +182,8 @@ obj-*
 
 #Project Stuff
 archive
+
+UltiMEM specific
+/dist/
+/hdl/*
+!/hdl/*.jed
